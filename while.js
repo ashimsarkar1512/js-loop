@@ -19,3 +19,4 @@ while(number<200){
             console.log('sum:', sum)
             number+=5;
 }
+
